@@ -1,4 +1,1 @@
-git add .
-git commit -m "Agregando mi-archivo.txt"
-git checkout -b nueva-rama
-
+Este es mi archivo de prueba
